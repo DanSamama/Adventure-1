@@ -28,4 +28,4 @@ Easily upload the database, once WAMP is downloaded.
 2. Install WAMP software and upload the Mysql file 
 3.Launch the project
 
-Be free to give me any feed-back :) 
+Do not hesitate to give me any feed-back :) 
