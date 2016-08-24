@@ -24,8 +24,8 @@ To run this database I personally used WAMP, free software that you can easily d
 Easily upload the database, once WAMP is downloaded.
 
 
-1.Fork or Download the ZIP file
+1. Fork or Download the ZIP file
 2. Install WAMP software and upload the Mysql file 
-3.Launch the project
+3. Launch the project
 
 Do not hesitate to give me any feed-back :) 
